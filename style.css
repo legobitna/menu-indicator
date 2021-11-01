@@ -1,4 +1,7 @@
-
+body{
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
 nav:first-child {
     display: flex;
     justify-content: center;
@@ -11,7 +14,7 @@ nav:nth-child(2){
 }
 nav a {
     text-decoration: none;
-    color:black;
+    color:white;
     margin: 1em;
     font-size: 2em;
 }
